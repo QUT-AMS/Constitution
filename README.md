@@ -115,7 +115,7 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 
 <a name="election-of-office-bearers"></a>
 ## 9. Election of Office Bearers
-- **9.1** Nominations for positions will be called at least one (2) week before the AGM.
+- **9.1** Nominations for positions will be called at least 2 weeks before the AGM.
 - **9.2** Should a position be contested, an election shall occur.
 - **9.3** Voting for elections will be conducted by either secret ballot or show of hands.
 - **9.4** The President shall be appointed electoral officer.
