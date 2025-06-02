@@ -63,13 +63,13 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
   - **3.1.2** Collaborate, experiment, and build impactful projects focused on artificial intelligence and machine learning.
   - **3.1.3** Connect and network with students, researchers, and professionals in the AI, ML, and broader scientific community.
 - **3.2** The motto of the Club shall be:
-  - **3.2.1** Empowering the Future Through AI & Machine Learning
+  - **3.2.1** Empowering the Future Through AI & Machine Learning.
 
 <a name="affiliation"></a>
 ## 4. Affiliation
 - **4.1** The club shall be affiliated with:
-  - **4.1.1** The QUT Student Guild
-  - **4.1.2** Student Grants & Developments Office (SGDO)
+  - **4.1.1** The QUT Student Guild.
+  - **4.1.2** Student Grants & Developments Office (SGDO).
 
 <a name="membership"></a>
 ## 5. Membership
@@ -87,9 +87,9 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 ## 7. Executive
 - **7.1** The Club shall have no less than three (3) Executive Members who shall be Students.
 - **7.2** These members shall be:
-  - **7.2.1** President
-  - **7.2.2** Secretary
-  - **7.2.3** Treasurer
+  - **7.2.1** President.
+  - **7.2.2** Secretary.
+  - **7.2.3** Treasurer.
 - **7.3** Other members may be elected to other Executive roles not listed above at an AGM or GM.
 - **7.4** All Executive Members (including General Executives) shall be Students.
 - **7.5** Non-student Members may be elected to other supporting roles within the club that are not considered part of the Executive at an AGM or GM.
@@ -108,8 +108,8 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
   - **8.1.6** Have the power to fill casual vacancies created during its term of office, following the AGM, subject to their confirmation at the next GM of the Club.
   - **8.1.7** Be responsible for keeping records of all the Club’s proceedings.
   - **8.1.8** Handle and keep records of all the Club’s finances.
-  - **8.1.9** Maintain regular contact with the Guild
-  - **8.1.10** Ensure the Club abides by all relevant Guild regulations, policies, and terms of reference
+  - **8.1.9** Maintain regular contact with the Guild.
+  - **8.1.10** Ensure the Club abides by all relevant Guild regulations, policies, and terms of reference.
   - **8.1.11** Any executive who is a member of the Admin team who resigns from their position are expected to provide a full handover to the new person fulfilling their role.
 - **8.2** All Executive Members must fulfill their roles as per the role descriptions document, available on the QUT AMS GitHub profile.
 
@@ -160,9 +160,9 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 - **13.4** The CSO and the CC must be advised of the AGM details at least one (1) week prior to the meeting.
 - **13.5** The purpose of the AGM shall be:
   - **13.5.1** To receive the annual reports from:
-      - **13.5.1.1** President
-      - **13.5.1.2** Treasurer
-      - **13.5.1.3** Any other deemed relevant Executive
+      - **13.5.1.1** President.
+      - **13.5.1.2** Treasurer.
+      - **13.5.1.3** Any other deemed relevant Executive.
     - **13.5.2** To elect or ratify the election of a new Club Executive as specified under Section 7.0.
     - **13.5.3** To issue the Club’s financial records or audited books for the past twelve (12) months or since the last AGM.
     - **13.5.4** To discuss any business duly brought before the meeting.
@@ -171,8 +171,8 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 <a name="termination-of-club-membership"></a>
 ## 14. Termination of Club Membership
 - **14.1** Executive members are voted into office during the Guilds Universal AGM Period (Clause 14.2), elected executives will not assume their role until 1st of December.
-  - **14.1.1** It is at the discretion of the outgoing President to determine if elected executives shall assume their roles prior to this date
-  - **14.1.2** The Executive team will experience a 1-month grace period, from the date that elected executives assume their roles, where outgoing executives will have access to Club accounts to ensure there is sufficient time to upload and distribute club documentation and transfer account ownership effectively. 
+  - **14.1.1** It is at the discretion of the outgoing President to determine if elected executives shall assume their roles prior to this date.
+  - **14.1.2** The Executive team will experience a 1-month grace period, from the date that elected executives assume their roles, where outgoing executives will have access to Club. accounts to ensure there is sufficient time to upload and distribute club documentation and transfer account ownership effectively. 
   - **14.1.3** During this grace period, elected Executives are considered current club executives and shall act in accordance with Clause 9. Outgoing executives are considered past executives.
 - **14.2** Various Club account passwords must be updated between January 1st to February 1st.
 - **14.3** Past executives are not required to engage in future communication with the current Executive team provided sufficient documentation has been produced during the Executive handover.
@@ -198,15 +198,15 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 - **16.3** Until a new Executive Member is elected at a GM, the President (or in their absence, the Vice-President) becomes responsible for either exercising or delegating the responsibilities of the vacant position.
 - **16.4** An executive member who fails to fulfill their required duties will be subject to the following process:
   - **16.4.1** Exec will be given the opportunity to explain their position, request a temporary leave of absence, or be reassigned to another role.
-  - **16.4.2** Exec is made aware of the breach and given two weeks to respond
+  - **16.4.2** Exec is made aware of the breach and given two weeks to respond.
   - **16.4.3** Exec will attend a meeting with either the President or Vice President.
 - **16.5** If there is no response or resolution, the exec must voluntarily resign.
   - **16.5.1** Following that, an SGM is called and a motion moved for their removal.
 - **16.6** An executive member who has extended absences of two weeks of inactivity without communication may:
   - **16.6.1** Have a check-in to see if they need additional support.
-  - **16.6.2** Lead to reassignment of their responsibilities
-  - **16.6.3** Further consequences as outlined in clause 16.4
-  - **16.6.4** If a newly elected club executive does not have a membership before March of the year following the AGM it will lead to further consequences as outlined in clause 15.4
+  - **16.6.2** Lead to reassignment of their responsibilities.
+  - **16.6.3** Further consequences as outlined in clause 16.4.
+  - **16.6.4** If a newly elected club executive does not have a membership before March of the year following the AGM it will lead to further consequences as outlined in clause 15.4.
 
 <a name="interpretation-of-the-constitution"></a>
 ## 17. Interpretation of the Constitution
