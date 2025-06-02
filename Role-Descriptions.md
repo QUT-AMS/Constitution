@@ -1,15 +1,10 @@
-# Executive Positions at QUT AI & ML Society 
+# Executive Positions at the QUT AI & ML Society 
 
-Thank you for your interest in taking on an Executive Position in **QUT AI & ML**!
+Thank you for your interest in taking on an Executive Position in the **QUT AI & ML Society**!
 
 We are looking for members who are passionate about all things AI & ML, and share a genuine desire to grow our community.
 
-
 ![QUT AMS Logo](https://raw.githubusercontent.com/QUT-AMS/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
-
-
-
-<br/>
 
 ---
 
@@ -22,10 +17,6 @@ All QUT AMS Executives are expected to:
 - Act in a professional and ethical manner, and positively represent the club  
 - Commit to the expected weekly time commitment for their specified role  
 
-
-<br/>
-
-
 ## About Executive Roles
 
 There are several roles that you can volunteer for in 2025. Each role includes:
@@ -33,43 +24,46 @@ There are several roles that you can volunteer for in 2025. Each role includes:
 - A specific set of responsibilities  
 - An estimated time commitment  
 
-> 📝 **Note**: These responsibilities and commitments are not definitive and **will increase** in the lead-up to major events.
-
-
-<br/>
-
+> [!NOTE]
+> These responsibilities and commitments are not definitive and **will increase** in the lead-up to major events.
 
 ## Eligibility
 
 All members nominating for an Executive Role at the **AGM** must be planning to **continue their studies at QUT in the following year**  
 (See **Clause 9.8** of the Constitution).
 
-<br/>
-
-
-
 ## Summary of Roles
 
-| 🌟 **Team**   | 🧑‍💼 **Role**          | 🎓 **Experience**         | ⏰ **Weekly Hours**    |
-|--------------|------------------------|---------------------------|-------------------------|
-| Admin        | President              | Required                  |  5-8 hours              |
-|              | Vice President         | Required                  |  4-6 hours              |
-|              | Secretary              | Recommended               |  2-4 hours              |
-|              | Treasurer              | Recommended               |  2-4 hours              |
-| Projects     | Projects Director      | Recommended               |  3-5 hours              |
-|              | Projects Officer       | Not Required              |  2-4 hours              |
-| Marketing    | Marketing Director     | Recommended               |  3-5 hours              |
-|              | Marketing Officer      | Not Required              |  2-4 hours              |
-| Events       | Events Director        | Recommended               |  2-4 hours              |
-| General      | General Executive      | Not Required              |  1-3 hours              |
+### 🤝 Admin Team
+_Manages the club’s internal operations, governance, finances, and compliance with university requirements._
+- **President**: Experience required, 5-8 hours weekly
+- **Vice-President**: Experience required, 4-6 hours weekly
+- **Secretary**: Experience recommended, 2-4 hours weekly
+- **Treasurer**: Experience recommended, 2-4 hours weekly
 
-<br/><br/>
+### 🎉 Events Team
+_Plans and runs the club’s social, technical, and professional events throughout the year._
+- **Events Director**: Experience recommended, 2-4 hours weekly
+
+### 🛠️ Projects Team
+_Leads technical initiatives and hands-on projects to help members build skills and experience._
+- **Projects Director**: Experience recommended, 3-5 hours weekly
+- **Projects Officer**: Experience not required, 2-4 hours
+
+### 📱 Marketing Team
+_Promotes the club through social media, design, and communications to engage current and future members._
+- **Marketing Director**: Experience recommended, 3-5 hours weekly
+- **Marketing Officer**: Experience not required, 2-4 hours weekly
+
+### 👥 General
+_Support all teams with day-to-day tasks and help make club activities run smoothly._
+- **General Executive**: Experience not required, 1-3 hours weekly
 
 -----
 
-<br/>
-
 # Admin Team
+Manages the club’s internal operations, governance, finances, and compliance with university requirements.
+
 ## President
 > [!NOTE]
 > Requires previous QUT AMS Executive experience, 5-8 hours per week
@@ -82,8 +76,6 @@ Responsibilities:
 - Chair Executive Team meetings.
 - Have a good working knowledge of the club’s constitution and rules.
 - Provide assistance and guidance to other executives.
-
-<br/>
 
 ## Vice President
 > [!NOTE]
@@ -98,8 +90,6 @@ Responsibilities:
 - Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
  -  ave a good working knowledge of the club’s constitution and rules.
 
-<br/>
-
 ## Secretary
 > [!NOTE]
 > Recommended previous QUT AMS experience, 2-4 hours per week
@@ -112,8 +102,6 @@ Responsibilities:
 - Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
 - Have a good working knowledge of the club’s constitution and rules.
 - Act as the central point of communication for members, the Executive, and external stakeholders.
-
-<br/>
 
 ## Treasurer
 > [!NOTE]
@@ -129,13 +117,11 @@ Responsibilities:
 - Manage funding and grant applications.
 - Have a good working knowledge of the club’s constitution and rules.
 
-<br/><br/>
-
 -----
 
-<br/>
-
 # Projects Team
+Leads technical initiatives and hands-on projects to help members build skills and experience.
+
 ## Projects Director
 > [!NOTE]
 > Technical expertise beneficial, 3-5 hours per week, in-person event attendance expected
@@ -148,8 +134,6 @@ Responsibilities:
 - Facilitate mini-workshops on the smaller projects.
 - Provide informal technical mentoring to members on club projects.
 - Delegate project ownership responsibilities to Project Officers.
-
-<br/>
 
 ## Projects Officer
 > [!NOTE]
@@ -165,14 +149,11 @@ Responsibilities:
 - Take ownership of projects in agreement with the Projects Director.
 - Other responsibilities as delegated by the Projects Director.
 
-
-<br/><br/>
-
 -----
 
-<br/>
-
 # Marketing Team
+Promotes the club through social media, design, and communications to engage current and future members.
+
 ## Marketing Director
 > [!NOTE]
 > Previous experience not required, 3-5 hours per week
@@ -183,8 +164,6 @@ Responsibilities:
 - Develop the QUT AMS brand identity, and ensure this is maintained throughout all content.
 - Maintain a Marketing Plan for QUT AMS’s events and initiatives
 - Delegate responsibilities to other members of the Marketing Team as required.
-
-<br/>
 
 ## Marketing Officer
 > [!NOTE]
@@ -198,14 +177,11 @@ Responsibilities:
 - Monitor analytics and public interactions on our social media platforms.
 - Take photos at QUT AMS’s events and promote them through social media.
 
-
-<br/><br/>
-
 -----
 
-<br/>
-
 # Events Team
+Plans and runs the club’s social, technical, and professional events throughout the year.
+
 ## Events Director
 > [!NOTE]
 > Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected>
@@ -224,14 +200,11 @@ Responsibilities:
 -  Collaborate with the Marketing and Projects teams in planning events.
 -  Liaise with external organisations for collaboration events.
 
-<br/><br/>
-
 -----
 
+# General
+Support all teams with day-to-day tasks and help make club activities run smoothly.
 
-<br/>
-
-# General Team
 ## General Executives
 > [!NOTE]
 > Previous experience not required, 1-3 hours per week
@@ -241,8 +214,3 @@ General Executive is a flexible role that can assist multiple teams across the c
 Responsibilities:
 - Proactively seek out opportunities to support the club’s operations.
 - Any other responsibilities as delegated by any area of the Executive Team.
-
-
-
-<br/><br/><br/><br/>
-
