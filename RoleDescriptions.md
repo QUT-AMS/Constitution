@@ -11,8 +11,9 @@ We are looking for members who are passionate about all things AI & ML, and shar
 
 <br/>
 
+---
 
-## Expectations of QUT AMS Executives
+# Expectations of QUT AMS Executives
 
 All QUT AMS Executives are expected to:
 
@@ -68,8 +69,8 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 <br/>
 
-## Admin Team
-### President
+# Admin Team
+## President
 > [!NOTE]
 > Requires previous QUT AMS Executive experience, 5-8 hours per week
 
@@ -84,7 +85,7 @@ Responsibilities:
 
 <br/>
 
-### Vice President
+## Vice President
 > [!NOTE]
 > Requires previous QUT AMS Executive experience, 4-6 hours per week
 
@@ -99,7 +100,7 @@ Responsibilities:
 
 <br/>
 
-### Secretary
+## Secretary
 > [!NOTE]
 > Recommended previous QUT AMS experience, 2-4 hours per week
 
@@ -114,7 +115,7 @@ Responsibilities:
 
 <br/>
 
-### Treasurer
+## Treasurer
 > [!NOTE]
 > Recommended previous QUT AMS experience, 2-4 hours per week
 
@@ -134,8 +135,8 @@ Responsibilities:
 
 <br/>
 
-## Projects Team
-### Projects Director
+# Projects Team
+## Projects Director
 > [!NOTE]
 > Technical expertise beneficial, 3-5 hours per week, in-person event attendance expected
 
@@ -150,7 +151,7 @@ Responsibilities:
 
 <br/>
 
-### Projects Officer
+## Projects Officer
 > [!NOTE]
 > Technical expertise beneficial, 2-4 hours per week, in-person event attendance expected
 
@@ -171,8 +172,8 @@ Responsibilities:
 
 <br/>
 
-## Marketing Team
-### Marketing Director
+# Marketing Team
+## Marketing Director
 > [!NOTE]
 > Previous experience not required, 3-5 hours per week
 
@@ -185,7 +186,7 @@ Responsibilities:
 
 <br/>
 
-### Marketing Officer
+## Marketing Officer
 > [!NOTE]
 > Previous experience not required, 2-4 hours per week
 
@@ -204,8 +205,8 @@ Responsibilities:
 
 <br/>
 
-## Events Team
-### Events Director
+# Events Team
+## Events Director
 > [!NOTE]
 > Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected>
 
@@ -230,8 +231,8 @@ Responsibilities:
 
 <br/>
 
-## General Team
-### General Executives
+# General Team
+## General Executives
 > [!NOTE]
 > Previous experience not required, 1-3 hours per week
 
@@ -243,5 +244,5 @@ Responsibilities:
 
 
 
-
+<br/><br/><br/><br/>
 
