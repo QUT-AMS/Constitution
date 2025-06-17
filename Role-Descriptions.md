@@ -43,7 +43,8 @@ _Manages the club’s internal operations, governance, finances, and compliance 
 
 ### 🎉 Events Team
 _Plans and runs the club’s social, technical, and professional events throughout the year._
-- **Events Director**: Experience recommended, 2-4 hours weekly
+- **Events Director**: Experience recommended, 3-5 hours weekly
+- **Events Officer**: Experience not required, 2-4 hours
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
@@ -184,7 +185,7 @@ Plans and runs the club’s social, technical, and professional events throughou
 
 ## Events Director
 > [!NOTE]
-> Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected>
+> Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected
 
 The Events Director is responsible for the overall planning and execution of QUT AMS events in line with the club’s objectives and the strategic vision.
 
@@ -199,6 +200,23 @@ Responsibilities:
 -  Delegating areas of responsibilities of events to Events Officers.
 -  Collaborate with the Marketing and Projects teams in planning events.
 -  Liaise with external organisations for collaboration events.
+
+## Events Officer
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+
+The Events Officer assists the Events Coordinator in delivering QUT AMS’s events. They are required to carry out tasks delegated to them by the Events Coordinator, as well as actively seeking areas of club events that can be streamlined.
+
+Responsibilities:
+-	Support the Events Coordinator with all aspects of event planning, including:
+-	Organising catering
+-	Risk assessments
+-	Event logistics (e.g. room bookings)
+-	Facilitate events where required.
+-	Other responsibilities as delegated by the Events Coordinator
+-	Proactively seek out opportunities to support event organisation
+
+
 
 -----
 
