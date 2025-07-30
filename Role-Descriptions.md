@@ -44,12 +44,12 @@ _Manages the club’s internal operations, governance, finances, and compliance 
 ### 🎉 Events Team
 _Plans and runs the club’s social, technical, and professional events throughout the year._
 - **Events Director**: Experience recommended, 3-5 hours weekly
-- **Events Officer**: Experience not required, 2-4 hours
+- **Events Officer**: Experience not required, 2-4 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
-- **Projects Director**: Experience recommended, 3-5 hours weekly
-- **Projects Officer**: Experience not required, 2-4 hours
+- **Projects Director**: Technical Experience required, or proven interest in AI & ML, 3-5 hours weekly
+- **Projects Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
 ### 📱 Marketing Team
 _Promotes the club through social media, design, and communications to engage current and future members._
@@ -125,7 +125,7 @@ Leads technical initiatives and hands-on projects to help members build skills a
 
 ## Projects Director
 > [!NOTE]
-> Technical expertise beneficial, 3-5 hours per week, in-person event attendance expected
+> Technical expertise required or proven interest in AI & ML, 3-5 hours per week, in-person event attendance expected
 
 The Projects Director will work closely with the President to oversee the continued implementation of QUT AMS projects and project events. They are responsible for devising projects for members to pick-up and will provide informal mentorship to members on their projects.
 
@@ -138,7 +138,7 @@ Responsibilities:
 
 ## Projects Officer
 > [!NOTE]
-> Technical expertise beneficial, 2-4 hours per week, in-person event attendance expected
+> Technical expertise required or proven interest in AI & ML, 2-4 hours per week, in-person event attendance expected
 
 The Projects Officer will support the Projects Director in the development of club projects and in the delivery of project nights. They will bring their own unique technical expertise and experience to support members to build their projects.
 
