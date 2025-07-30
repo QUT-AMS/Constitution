@@ -123,13 +123,14 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 - **9.6** In the event of a position remaining vacant after an AGM, the Executive will have the power to fill those vacancies at an Executive Meeting, subject to ratification by a GM.
 - **9.7** Every Member nominated for an Executive position must be a Student as of the AGM or GM date.
 - **9.8** Every Member nominated for an Executive position at an AGM must be planning on continuing as a Student in the following year.
+- **9.9** Any evidence of actions that conflict with or undermine the objectives, values, or best interests of the club will be considered grounds for review.
 
 <a name="finances"></a>
 ## 10. Finances
 - **10.1** All monies acquired or raised by the Club shall be deposited into a bank account at National Australia Bank.
 - **10.2** The signatories of the Club’s bank account shall be:
   - **10.2.1** At least two (2) Executive Members; and 
-  - **10.2.1** The CC.
+  - **10.2.2** The CC.
 - **10.3** The financial period of the Club ends on 30 November each year.
 - **10.4** Proper financial records shall be kept and maintained correctly showing the financial affairs of the Club. 
 - **10.5** Prior to purchase or sale of equipment the CSO & the CC must be informed in writing by the Club and their approval granted.
@@ -163,32 +164,32 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
       - **13.5.1.1** President.
       - **13.5.1.2** Treasurer.
       - **13.5.1.3** Any other deemed relevant Executive.
-    - **13.5.2** To elect or ratify the election of a new Club Executive as specified under Section 7.0.
-    - **13.5.3** To issue the Club’s financial records or audited books for the past twelve (12) months or since the last AGM.
-    - **13.5.4** To discuss any business duly brought before the meeting.
+  - **13.5.2** To elect or ratify the election of a new Club Executive as specified under Section 7.0.
+  - **13.5.3** To issue the Club’s financial records or audited books for the past twelve (12) months or since the last AGM.
+  - **13.5.4** To discuss any business duly brought before the meeting.
 - **13.6** Proxies are not permitted at AGMs.
 
-<a name="termination-of-club-membership"></a>
-## 14. Termination of Club Membership
-- **14.1** Executive members are voted into office during the Guilds Universal AGM Period (Clause 14.2), elected executives will not assume their role until 1st of December.
-  - **14.1.1** It is at the discretion of the outgoing President to determine if elected executives shall assume their roles prior to this date.
-  - **14.1.2** The Executive team will experience a 1-month grace period, from the date that elected executives assume their roles, where outgoing executives will have access to Club. accounts to ensure there is sufficient time to upload and distribute club documentation and transfer account ownership effectively. 
-  - **14.1.3** During this grace period, elected Executives are considered current club executives and shall act in accordance with Clause 9. Outgoing executives are considered past executives.
+<a name="term-of-office"></a>
+## 14. Term of Office
+- **14.1** Executive members are voted into office during the Guilds Universal AGM Period (Clause 13.2), elected executives will not assume their role until 1st of December.
+  - **14.1.1** It is at the discretion of the outgoing President to determine if elected executives shall assume their roles prior to this date
+  - **14.1.2** The Executive team will experience a 1-month grace period, from the date that elected executives assume their roles, where outgoing executives will have access to Club accounts to ensure there is sufficient time to upload and distribute club documentation and transfer account ownership effectively.
+  - **14.1.3** During this grace period, elected Executives are considered current club executives and shall act in accordance with Clause 8. Outgoing executives are considered past executives.
 - **14.2** Various Club account passwords must be updated between January 1st to February 1st.
 - **14.3** Past executives are not required to engage in future communication with the current Executive team provided sufficient documentation has been produced during the Executive handover.
   - **14.3.1** The new executive may choose to reach out for clarification on documented procedures or context not fully captured during the handover.
   - **14.3.2** The incoming executive has the final say on whether they require further contact or deem the handover complete.
-
-<a name="termination-of-executive-member"></a>
-## 15. Termination of Executive Member
+    
+<a name="termination-of-membership-to-the-club"></a>
+## 15. Termination of Membership to the Club
 - **15.1** A person will cease to hold membership of the Club:
   - **15.1.1** By a resolution passed by a two-thirds (2/3) majority at a GM on the grounds that the person is guilty of conduct detrimental to the interests of the Club; or
   - **15.1.2** If the person resigns from the Club; or
   - **15.1.3** If the person does not renew their membership on an annual basis.
   - **15.1.4** If the CSC deems the removal necessary in the interest of Club and/or the Guild.
 
-<a name="disaffiliation"></a>
-## 16. Disaffiliation
+<a name="termination-of-the-terms-of-the-executive-members"></a>
+## 15. Termination of the terms to the Executive Members
 - **16.1** An Executive Member will cease to hold their position:
   - **16.1.1** If they cease to be a Student; or
   - **16.1.2** By a resolution passed by a two-thirds (2/3) majority at a GM; or
@@ -208,25 +209,31 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
   - **16.6.3** Further consequences as outlined in clause 16.4.
   - **16.6.4** If a newly elected club executive does not have a membership before March of the year following the AGM it will lead to further consequences as outlined in clause 15.4.
 
-<a name="interpretation-of-the-constitution"></a>
-## 17. Interpretation of the Constitution
+<a name="disaffiliation"></a>
+## 17. Disaffiliation
 - **17.1** The Club will cease to be affiliated with the Guild if:
   - **17.1.1** Its membership falls below twenty (20); or
   - **17.1.2** Its membership comprises of less than 70% Students; or
-  - **17.1.3** It fails to comply with the policies or regulations of the CSC or the Guild; or’
+  - **17.1.3** It fails to comply with the policies or regulations of the CSC or the Guild; or
   - **17.1.4** It is on probation for a period of more than six months; or
   - **17.1.5** The QUT Student Guild Council votes in favour of disaffiliating the Club; or
-  - **17.1.6** By resolution of the Executive, the Club undergoes voluntarily dissolution.
-- **17.2** Upon disaffiliation of the Club, all equipment and funds will become property of the Guild
+  - **17.1.6** By resolution of the Executive, the Club undergoes voluntary dissolution.
+- **17.2** Upon disaffiliation of the Club, all equipment and funds will become property of the Guild.
 - **17.3** The Club must be given at least thirty (30) days written notice of the intended disaffiliation.
 
-<a name="alteration-of-the-constitution"></a>
-## 18. Alteration of the Constitution
+<a name="interpretation-of-the-constitution"></a>
+## 18. Interpretation of the Constitution
 - **18.1** The interpretation of this Constitution shall be the responsibility of the Guild via the CC or the CSO.
 - **18.2** Where this Constitution is silent, the Executive shall act in what it considers to be the best interest of the Club, in accordance with the aims and objects of the Club.  Such action will be subject to confirmation by the next GM
 - **18.3** To be a valid Constitutional amendment, the amendment must be approved by:
   - **18.3.1** The Guild via the CSO or the CC; then
   - **18.3.2** By resolution of at least two-thirds (2/3) majority at an AGM and/or GM of the Club.
+
+<a name="alteration-of-the-constitution"></a>
+## 19. Alteration of the Constitution
+- **19.1** To be a valid Constitutional amendment, the amendment must be approved by:
+  - **19.1.1** The Guild via the CSO or the CC; then
+  - **19.1.2** By resolution of at least two-thirds (2/3) majority at an AGM and/or GM of the Club.
 
 <a name="enactment"></a>
 ## 19. Enactment
