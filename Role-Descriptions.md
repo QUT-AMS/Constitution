@@ -1,9 +1,3 @@
-# Executive Positions at the QUT AI & ML Society 
-
-Thank you for your interest in taking on an Executive Position in the **QUT AI & ML Society**!
-
-We are looking for members who are passionate about all things AI & ML, and share a genuine desire to grow our community.
-
 ![QUT AMS Logo](https://raw.githubusercontent.com/QUT-AMS/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
 
 ---
@@ -36,29 +30,33 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Experience required, 5-8 hours weekly
-- **Vice-President**: Experience required, 4-6 hours weekly
+- **President**: Requires previous QUT AMS Executive experience, 5-8 hours weekly
+- **Vice-President**: Requires previous QUT AMS Executive experience, 4-6 hours weekly
 - **Secretary**: Experience recommended, 2-4 hours weekly
 - **Treasurer**: Experience recommended, 2-4 hours weekly
-
-### 🎉 Events Team
-_Plans and runs the club’s social, technical, and professional events throughout the year._
-- **Events Director**: Experience recommended, 3-5 hours weekly
-- **Events Officer**: Experience not required, 2-4 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
 - **Projects Director**: Technical Experience required, or proven interest in AI & ML, 3-5 hours weekly
+- **Projects Manager**: Technical Experience required, or proven interest in AI & ML, 3-5 hours weekly
 - **Projects Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
 ### 📱 Marketing Team
 _Promotes the club through social media, design, and communications to engage current and future members._
 - **Marketing Director**: Experience recommended, 3-5 hours weekly
-- **Marketing Officer**: Experience not required, 2-4 hours weekly
+- **Social Media Manager**: Experience not required, 2-4 hours weekly
+- **Graphics Officer**: Experience not required, 2-4 hours weekly
+- **Reels & Video Officer**: Experience not required, 2-4 hours weekly
 
-### 👥 General
-_Support all teams with day-to-day tasks and help make club activities run smoothly._
-- **General Executive**: Experience not required, 1-3 hours weekly
+### 🎉 Events Team
+_Plans and runs the club’s social, technical, and professional events throughout the year._
+- **Events Director**: Experience recommended, 3-5 hours weekly
+- **Activities Facilitator**: Experience not required, 2-4 hours weekly
+- **Videos & Presentation Facilitator**: Experience not required, 2-4 hours weekly
+- **Engagement Officer**: Experience not required, 2-4 hours weekly
+
+### 👥 Other
+- **Industry Director**: Experience not required, 3-5 hours weekly
 
 -----
 
@@ -127,15 +125,29 @@ Leads technical initiatives and hands-on projects to help members build skills a
 > [!NOTE]
 > Technical expertise required or proven interest in AI & ML, 3-5 hours per week, in-person event attendance expected
 
-The Projects Director will work closely with the President to oversee the continued implementation of QUT AMS projects and project events. They are responsible for devising projects for members to pick-up and will provide informal mentorship to members on their projects.
+The Projects Director works alongside the Projects Manager to set the vision and strategic direction for club projects, devising initiatives for members to pursue and guiding the overall roadmap.
+
+Responsibilities:
+- Define the long-term vision and objectives for club projects.
+- Devise project ideas and themes for members to pick up.
+- Provide high-level guidance and mentorship to Project Managers and Officers.
+- Approve project briefs and ensure alignment with club goals.
+
+
+## Projects Manager
+> [!NOTE]
+> Technical expertise required or proven interest in AI & ML, 3-5 hours per week, in-person event attendance expected
+
+The Projects Manager works alongside the Projects Director to oversee project execution, support Project Officers, and ensure progress aligns with the club’s project vision.
 
 Responsibilities:
 - Coordinate the program for Project Nights.
-- Devise project briefs for members to work on and take ownership of.
-- Facilitate mini-workshops on the smaller projects.
-- Provide informal technical mentoring to members on club projects.
-- Delegate project ownership responsibilities to Project Officers.
+- Oversee Project Officers and delegate ownership responsibilities.
+- Monitor progress of ongoing projects and provide support where needed.
+- Facilitate mini-workshops or skill sessions to help members complete projects.
+- Report updates to the Projects Director and suggest improvements.
 
+  
 ## Projects Officer
 > [!NOTE]
 > Technical expertise required or proven interest in AI & ML, 2-4 hours per week, in-person event attendance expected
@@ -166,17 +178,50 @@ Responsibilities:
 - Maintain a Marketing Plan for QUT AMS’s events and initiatives
 - Delegate responsibilities to other members of the Marketing Team as required.
 
-## Marketing Officer
+
+## Social Media Manager
 > [!NOTE]
 > Previous experience not required, 2-4 hours per week
 
-The Marketing Officer supports the Marketing Team in the writing and posting of content to our social media platforms.
+The Social Media Manager plans, schedules, and manages content across platforms, engages the audience, and tracks performance to optimize the club’s online presence.
 
 Responsibilities:
-- Create descriptions and graphics for posts.
-- Publish posts to a variety of social media platforms (e.g. Facebook, Discord, etc.)
-- Monitor analytics and public interactions on our social media platforms.
-- Take photos at QUT AMS’s events and promote them through social media.
+- Creates content calendars and schedules posts consistently for optimal engagement.
+- Engages with followers, responds to messages/comments, and moderates online discussions.
+- Tracks post performance and adjusts content strategies accordingly.
+- Collects content contributions from all teams (Events, Projects, Admin) for newsletter inclusion.
+- Monitors email performance (open rates, click-through rates) and optimizes content for audience engagement.
+- Responsible for finding memes and trends on social media, and relaying them to our reels and video officer
+
+
+## Graphics Officer
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week
+
+The Graphics Officer designs and produces branded visual content, including posters, social media graphics, and templates, to support the club’s marketing efforts.
+
+Responsibilities:
+	- Produces static visual materials including posters, banners, infographics, and event promotional designs.
+ - Ensures all graphics align with club branding guidelines and maintain a consistent look and feel.
+ - Creates templates for social media posts, newsletters, and slide decks.
+ - Supports the Slide Deck Officer (Events Team) by providing branded visual elements and design assets.
+ - Maintains an organized library of design templates and reusable graphics.
+
+
+## Reels & Video Officer
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week
+
+The Reels & Video Officer creates, edits, and posts engaging short-form video content to boost the club’s social media presence.
+
+Responsibilities:
+- Creates short-form video content (e.g., Instagram Reels, TikTok) to boost club engagement and reach.
+- Handles event video coverage including filming, editing, and producing highlight reels.
+- Ensures videos are platform-optimized (aspect ratios, subtitles, music licensing).
+- Works with the Social Media Manager to identify trending content opportunities and integrate them into campaigns.
+- Maintains a library of raw footage and final edits for future use.
+
+
 
 -----
 
@@ -201,34 +246,59 @@ Responsibilities:
 -  Collaborate with the Marketing and Projects teams in planning events.
 -  Liaise with external organisations for collaboration events.
 
-## Events Officer
+
+## Activities Facilitator
 > [!NOTE]
 > Previous experience not required, 2-4 hours per week, in-person event attendance expected
 
-The Events Officer assists the Events Coordinator in delivering QUT AMS’s events. They are required to carry out tasks delegated to them by the Events Coordinator, as well as actively seeking areas of club events that can be streamlined.
+The Activities Facilitator is responsible for designing and hosting interactive event activities, coordinating volunteers, and gathering feedback to improve audience engagement and future events.
 
 Responsibilities:
--	Support the Events Coordinator with all aspects of event planning, including:
--	Organising catering
--	Risk assessments
--	Event logistics (e.g. room bookings)
--	Facilitate events where required.
--	Other responsibilities as delegated by the Events Coordinator
--	Proactively seek out opportunities to support event organisation
+	- Designs the activity flow (e.g., trivia questions, game rounds, interactive segments).
+ - Acts as MC/host during events, keeping energy high and guiding attendees through the schedule.
+ - Coordinates volunteers running individual activities or game stations.
+ - Collects quick feedback during/after events to improve future activities
+ - Writes short event reflections summarizing what worked well, what can be improved, and key audience feedback for future planning.
 
+
+## Video & Presentation Facilitator
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+
+The Video & Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
+
+Responsibilities:
+	- Creates and manages event slide decks, ensuring they are clear, visually appealing, and consistent with club branding.
+	- Collects content from relevant teams (e.g., sponsors from Marketing, schedules from Events Officers, club updates from Admin).
+	- Edits and formats presentations, ensuring readability and flow (appropriate fonts, templates, transitions).
+	- Coordinates with AV/tech to ensure slides run smoothly during events.
+ - Updates master slide templates and maintains a slide asset library for future events.
+
+
+## Engagement Officer
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+
+The Engagement Officer is responsible for monitoring campaign performance, managing external communications, and advising the team on strategies to improve audience engagement and community interaction.
+
+Responsibilities:
+	- Monitors campaign performance using analytics tools (Google Analytics, Meta Business Suite, etc.).
+ - Tracks key metrics such as reach, engagement, conversions, and audience growth.
+ - Prepares monthly marketing performance reports for the Executive Team.
+ - Handles external communications including media outreach, sponsorship announcements, and press releases.
+ - Advises the team on improving audience engagement and community interaction.
 
 
 -----
 
-# General
-Support all teams with day-to-day tasks and help make club activities run smoothly.
-
-## General Executives
+## Industry Director
 > [!NOTE]
-> Previous experience not required, 1-3 hours per week
+> Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected
 
-General Executive is a flexible role that can assist multiple teams across the club. It’s also a great way to learn more about the workings of a club with less responsibility than an Admin or Director role.
+The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
 Responsibilities:
-- Proactively seek out opportunities to support the club’s operations.
-- Any other responsibilities as delegated by any area of the Executive Team.
+- Reaches out to professionals, companies, and organizations to build and maintain industry connections.
+- Identifies and secures potential guest speakers, panelists, and mentors for club events.
+- Encourages and develops partnerships with potential sponsors to support club activities.
+- Tracks and documents outreach efforts to ensure continuity and long-term relationship building.
