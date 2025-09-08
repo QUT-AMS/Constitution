@@ -254,11 +254,11 @@ Responsibilities:
 The Activities Facilitator is responsible for designing and hosting interactive event activities, coordinating volunteers, and gathering feedback to improve audience engagement and future events.
 
 Responsibilities:
-	- Designs the activity flow (e.g., trivia questions, game rounds, interactive segments).
- - Acts as MC/host during events, keeping energy high and guiding attendees through the schedule.
- - Coordinates volunteers running individual activities or game stations.
- - Collects quick feedback during/after events to improve future activities
- - Writes short event reflections summarizing what worked well, what can be improved, and key audience feedback for future planning.
+- Designs the activity flow (e.g., trivia questions, game rounds, interactive segments).
+- Acts as MC/host during events, keeping energy high and guiding attendees through the schedule.
+- Coordinates volunteers running individual activities or game stations.
+- Collects quick feedback during/after events to improve future activities
+- Writes short event reflections summarizing what worked well, what can be improved, and key audience feedback for future planning.
 
 
 ## Video & Presentation Facilitator
@@ -268,11 +268,11 @@ Responsibilities:
 The Video & Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
 
 Responsibilities:
-	- Creates and manages event slide decks, ensuring they are clear, visually appealing, and consistent with club branding.
-	- Collects content from relevant teams (e.g., sponsors from Marketing, schedules from Events Officers, club updates from Admin).
-	- Edits and formats presentations, ensuring readability and flow (appropriate fonts, templates, transitions).
-	- Coordinates with AV/tech to ensure slides run smoothly during events.
- - Updates master slide templates and maintains a slide asset library for future events.
+- Creates and manages event slide decks, ensuring they are clear, visually appealing, and consistent with club branding.
+- Collects content from relevant teams (e.g., sponsors from Marketing, schedules from Events Officers, club updates from Admin).
+- Edits and formats presentations, ensuring readability and flow (appropriate fonts, templates, transitions).
+- Coordinates with AV/tech to ensure slides run smoothly during events.
+- Updates master slide templates and maintains a slide asset library for future events.
 
 
 ## Engagement Officer
@@ -282,11 +282,11 @@ Responsibilities:
 The Engagement Officer is responsible for monitoring campaign performance, managing external communications, and advising the team on strategies to improve audience engagement and community interaction.
 
 Responsibilities:
-	- Monitors campaign performance using analytics tools (Google Analytics, Meta Business Suite, etc.).
- - Tracks key metrics such as reach, engagement, conversions, and audience growth.
- - Prepares monthly marketing performance reports for the Executive Team.
- - Handles external communications including media outreach, sponsorship announcements, and press releases.
- - Advises the team on improving audience engagement and community interaction.
+- Monitors campaign performance using analytics tools (Google Analytics, Meta Business Suite, etc.).
+- Tracks key metrics such as reach, engagement, conversions, and audience growth.
+- Prepares monthly marketing performance reports for the Executive Team.
+- Handles external communications including media outreach, sponsorship announcements, and press releases.
+- Advises the team on improving audience engagement and community interaction.
 
 
 -----
