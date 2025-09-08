@@ -189,7 +189,6 @@ Responsibilities:
 - Creates content calendars and schedules posts consistently for optimal engagement.
 - Engages with followers, responds to messages/comments, and moderates online discussions.
 - Tracks post performance and adjusts content strategies accordingly.
-- Collects content contributions from all teams (Events, Projects, Admin) for newsletter inclusion.
 - Responsible for finding memes and trends on social media, and relaying them to our reels and video officer
 
 
