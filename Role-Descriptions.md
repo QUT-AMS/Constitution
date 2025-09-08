@@ -31,7 +31,7 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
 - **President**: Requires previous QUT AMS Executive experience, 5-8 hours weekly
-- **Vice-President**: Requires previous QUT AMS Executive experience, 4-6 hours weekly
+- **Vice President**: Requires previous QUT AMS Executive experience, 4-6 hours weekly
 - **Secretary**: Experience recommended, 2-4 hours weekly
 - **Treasurer**: Experience recommended, 2-4 hours weekly
 
