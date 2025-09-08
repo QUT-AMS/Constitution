@@ -69,7 +69,8 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
 ## 4. Affiliation
 - **4.1** The club shall be affiliated with:
   - **4.1.1** The QUT Student Guild.
-  - **4.1.2** Student Grants & Developments Office (SGDO).
+  - **4.1.2** The Faculty of Science.
+  - **4.1.3** The Faculty of Engineering.
 
 <a name="membership"></a>
 ## 5. Membership
