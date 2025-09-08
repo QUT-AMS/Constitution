@@ -87,7 +87,7 @@ Responsibilities:
 - Assume the duties of the President in their absence.
 - Act as Deputy Chairperson for club meetings.
 - Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
- -  ave a good working knowledge of the club’s constitution and rules.
+- Have a good working knowledge of the club’s constitution and rules.
 
 ## Secretary
 > [!NOTE]
