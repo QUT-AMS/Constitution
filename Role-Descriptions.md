@@ -52,7 +52,7 @@ _Promotes the club through social media, design, and communications to engage cu
 _Plans and runs the club’s social, technical, and professional events throughout the year._
 - **Events Director**: Experience recommended, 3-5 hours weekly
 - **Activities Facilitator**: Experience not required, 2-4 hours weekly
-- **Videos & Presentation Facilitator**: Experience not required, 2-4 hours weekly
+- **Presentation Facilitator**: Experience not required, 2-4 hours weekly
 - **Engagement Officer**: Experience not required, 2-4 hours weekly
 
 ### 👥 Other
@@ -261,11 +261,11 @@ Responsibilities:
 - Writes short event reflections summarizing what worked well, what can be improved, and key audience feedback for future planning.
 
 
-## Video & Presentation Facilitator
+## Presentation Facilitator
 > [!NOTE]
 > Previous experience not required, 2-4 hours per week, in-person event attendance expected
 
-The Video & Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
+The Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
 
 Responsibilities:
 - Creates and manages event slide decks, ensuring they are clear, visually appealing, and consistent with club branding.
