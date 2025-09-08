@@ -130,7 +130,7 @@ The Projects Director works alongside the Projects Manager to set the vision and
 Responsibilities:
 - Define the long-term vision and objectives for club projects.
 - Devise project ideas and themes for members to pick up.
-- Provide high-level guidance and mentorship to Project Managers and Officers.
+- Provide high-level guidance and mentorship to Project Manager and Officers.
 - Approve project briefs and ensure alignment with club goals.
 
 
