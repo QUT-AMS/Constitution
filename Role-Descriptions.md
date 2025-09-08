@@ -203,7 +203,7 @@ Responsibilities:
  - Ensures all graphics align with club branding guidelines and maintain a consistent look and feel.
  - Creates templates for social media posts, newsletters, and slide decks.
  - Supports the Slide Deck Officer (Events Team) by providing branded visual elements and design assets.
- - Maintains an organized library of design templates and reusable graphics.
+ - Maintains an organised library of design templates and reusable graphics.
 
 
 ## Reels & Video Officer
@@ -256,7 +256,7 @@ Responsibilities:
 - Acts as MC/host during events, keeping energy high and guiding attendees through the schedule.
 - Coordinates volunteers running individual activities or game stations.
 - Collects quick feedback during/after events to improve future activities
-- Writes short event reflections summarizing what worked well, what can be improved, and key audience feedback for future planning.
+- Writes short event reflections summarising what worked well, what can be improved, and key audience feedback for future planning.
 
 
 ## Presentation Facilitator
@@ -296,7 +296,7 @@ Responsibilities:
 The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
 Responsibilities:
-- Reaches out to professionals, companies, and organizations to build and maintain industry connections.
+- Reaches out to professionals, companies, and organisations to build and maintain industry connections.
 - Identifies and secures potential guest speakers, panelists, and mentors for club events.
 - Encourages and develops partnerships with potential sponsors to support club activities.
 - Tracks and documents outreach efforts to ensure continuity and long-term relationship building.
