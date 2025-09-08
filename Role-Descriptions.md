@@ -56,7 +56,7 @@ _Plans and runs the club’s social, technical, and professional events througho
 - **Engagement Officer**: Experience not required, 2-4 hours weekly
 
 ### 👥 Other
-- **Industry Director**: Experience not required, 3-5 hours weekly
+- **Industry Director**: Experience recommended, 3-5 hours weekly
 
 -----
 
