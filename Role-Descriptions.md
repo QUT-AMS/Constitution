@@ -45,7 +45,7 @@ _Leads technical initiatives and hands-on projects to help members build skills 
 _Promotes the club through social media, design, and communications to engage current and future members._
 - **Marketing Director**: Experience recommended, 3-5 hours weekly
 - **Social Media Manager**: Experience not required, 2-4 hours weekly
-- **Graphics Officer**: Experience not required, 2-4 hours weekly
+- **Graphic Designer**: Experience not required, 2-4 hours weekly
 - **Reels & Video Officer**: Experience not required, 2-4 hours weekly
 
 ### 🎉 Events Team
@@ -192,18 +192,18 @@ Responsibilities:
 - Responsible for finding memes and trends on social media, and relaying them to our reels and video officer
 
 
-## Graphics Officer
+## Graphic Designer
 > [!NOTE]
 > Previous experience not required, 2-4 hours per week
 
-The Graphics Officer designs and produces branded visual content, including posters, social media graphics, and templates, to support the club’s marketing efforts.
+The Graphic Designer produces branded visual content, including posters, social media graphics, and templates, to support the club’s marketing efforts.
 
 Responsibilities:
-	- Produces static visual materials including posters, banners, infographics, and event promotional designs.
- - Ensures all graphics align with club branding guidelines and maintain a consistent look and feel.
- - Creates templates for social media posts, newsletters, and slide decks.
- - Supports the Slide Deck Officer (Events Team) by providing branded visual elements and design assets.
- - Maintains an organised library of design templates and reusable graphics.
+- Produces static visual materials including posters, banners, infographics, and event promotional designs.
+- Ensures all graphics align with club branding guidelines and maintain a consistent look and feel.
+- Creates templates for social media posts, newsletters, and slide decks.
+- Supports the Slide Deck Officer (Events Team) by providing branded visual elements and design assets.
+- Maintains an organised library of design templates and reusable graphics.
 
 
 ## Reels & Video Officer
