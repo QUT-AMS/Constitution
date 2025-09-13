@@ -65,7 +65,7 @@ Manages the club’s internal operations, governance, finances, and compliance w
 
 ## President
 > [!NOTE]
-> Requires previous QUT AMS Executive experience, 5-8 hours per week, in-person event attendance expected
+> Requires previous QUT AMS Executive experience, 5-8 hours per week, in-person event attendance required
 
 The President is the club’s main ambassador and is responsible for chairing club meetings. At events, the President is the one to mingle with club members, and not be carried away with managing the day-to-day operations of the club.
 
@@ -78,7 +78,7 @@ Responsibilities:
 
 ## Vice President
 > [!NOTE]
-> Requires previous QUT AMS Executive experience, 4-6 hours per week, in-person event attendance expected
+> Requires previous QUT AMS Executive experience, 4-6 hours per week, in-person event attendance required
 
 The Vice-President is the understudy to the President and will fill in for the President if the President is away. The Vice-President is also the strategic planning director and works closely with the President to ensure club operations are in line with our objectives.
 
