@@ -247,7 +247,7 @@ Responsibilities:
 
 ## Activities Facilitator
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+> Previous experience not required, 2-4 hours per week, in-person event attendance expected (where required)
 
 The Activities Facilitator is responsible for designing and hosting interactive event activities, coordinating volunteers, and gathering feedback to improve audience engagement and future events.
 
