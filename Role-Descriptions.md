@@ -208,7 +208,7 @@ Responsibilities:
 
 ## Reels & Video Officer
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week
+> Previous experience not required, 2-4 hours per week, in-person event attendance desirable
 
 The Reels & Video Officer creates, edits, and posts engaging short-form video content to boost the club’s social media presence.
 
