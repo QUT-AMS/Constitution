@@ -261,7 +261,7 @@ Responsibilities:
 
 ## Presentation Facilitator
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+> Previous experience not required, 2-4 hours per week, in-person event attendance recommended
 
 The Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
 
@@ -291,7 +291,7 @@ Responsibilities:
 
 ## Industry Director
 > [!NOTE]
-> Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected
+> Previous experience beneficial though not required, 3-5 hours per week
 
 The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
