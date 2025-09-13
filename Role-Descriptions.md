@@ -169,7 +169,7 @@ Promotes the club through social media, design, and communications to engage cur
 
 ## Marketing Director
 > [!NOTE]
-> Previous experience not required, 3-5 hours per week
+> Previous experience not required, 3-5 hours per week, in-person event attendance desirable
 
 The Marketing Team helps QUT AMS engage with our members through our online and in-person platforms. The Marketing Director oversees the direction of the QUT AMS brand.
 
@@ -261,7 +261,7 @@ Responsibilities:
 
 ## Presentation Facilitator
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance recommended
+> Previous experience not required, 2-4 hours per week, in-person event attendance desirable
 
 The Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
 
