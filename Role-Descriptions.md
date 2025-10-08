@@ -285,5 +285,5 @@ Responsibilities:
 - Works with the Admin Team by preparing monthly engagement reports, using analytics tools (e.g., Meta Business Suite) to track reach, engagement, and audience growth, and providing recommendations to improve overall engagement.
 - Works with the Marketing Team by helping to review content to ensure post communication aligns with member expectations
 - Works with the Events Team by acting as the main point of contact for other clubs, facilitating partnerships and recommending joint events to the Events Director that provide meaningful experiences
-- Works with the Projects Team by advising the Projects Director on strategies to enhance member engagement and community interaction, highlighting opportunities for members to participate and contribute to larger projects
+- Works with the Events and Marketing Teams to ensure all events and promotional activities uphold the expectations of industry agreements, as informed by the Industry Director, providing guidance to maintain compliance.
 - Supports online community engagement by monitoring and improving interaction on platforms like Discord, identifying opportunities to foster active, meaningful member participation and strengthen the club’s online presence.
