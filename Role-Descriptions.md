@@ -277,7 +277,7 @@ Responsibilities:
 
 ## Engagement Officer
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week
+> Previous experience beneficial though not required, 2-4 hours per week
 
 The Engagement Officer acts as the central connector between Events, Marketing, and Industry teams, ensuring that all initiatives are engaging, aligned with club values, and fulfill industry obligations. They monitor performance, coordinate collaborations, and advise on strategies to maintain authentic messaging and meaningful experiences for members.
 
