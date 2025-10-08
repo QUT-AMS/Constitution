@@ -52,11 +52,10 @@ _Promotes the club through social media, design, and communications to engage cu
 _Plans and runs the club’s social, technical, and professional events throughout the year._
 - **Events Director**: Experience recommended, 3-5 hours weekly
 - **Activities Facilitator**: Experience not required, 2-4 hours weekly
-- **Presentation Facilitator**: Experience not required, 2-4 hours weekly
-- **Engagement Officer**: Experience not required, 2-4 hours weekly
 
 ### 👥 Other
 - **Industry Director**: Experience recommended, 3-5 hours weekly
+- **Engagement Officer**: Experience not required, 2-4 hours weekly
 
 -----
 
@@ -259,35 +258,10 @@ Responsibilities:
 - Writes short event reflections summarising what worked well, what can be improved, and key audience feedback for future planning.
 
 
-## Presentation Facilitator
-> [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance desirable
-
-The Presentation Facilitator is responsible for creating, managing, and running event slide decks, coordinating content from relevant teams, and ensuring presentations are visually consistent and smoothly delivered.
-
-Responsibilities:
-- Creates and manages event slide decks, ensuring they are clear, visually appealing, and consistent with club branding.
-- Collects content from relevant teams (e.g., sponsors from Marketing, schedules from Events Officers, club updates from Admin).
-- Edits and formats presentations, ensuring readability and flow (appropriate fonts, templates, transitions).
-- Coordinates with AV/tech to ensure slides run smoothly during events.
-- Updates master slide templates and maintains a slide asset library for future events.
-
-
-## Engagement Officer
-> [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance expected
-
-The Engagement Officer is responsible for monitoring campaign performance, managing external communications, and advising the team on strategies to improve audience engagement and community interaction.
-
-Responsibilities:
-- Monitors campaign performance using analytics tools (Google Analytics, Meta Business Suite, etc.).
-- Tracks key metrics such as reach, engagement, conversions, and audience growth.
-- Prepares monthly marketing performance reports for the Executive Team.
-- Handles external communications including media outreach, sponsorship announcements, and press releases.
-- Advises the team on improving audience engagement and community interaction.
-
 
 -----
+
+# Other Supporting Roles
 
 ## Industry Director
 > [!NOTE]
@@ -300,3 +274,16 @@ Responsibilities:
 - Identifies and secures potential guest speakers, panelists, and mentors for club events.
 - Encourages and develops partnerships with potential sponsors to support club activities.
 - Tracks and documents outreach efforts to ensure continuity and long-term relationship building.
+
+## Engagement Officer
+> [!NOTE]
+> Previous experience not required, 2-4 hours per week, in-person event attendance expected
+
+The Engagement Officer acts as the central connector between Events, Marketing, and Industry teams, ensuring that all initiatives are engaging, aligned with club values, and fulfill industry obligations. They monitor performance, coordinate collaborations, and advise on strategies to maintain authentic messaging and meaningful experiences for members.
+
+Responsibilities:
+- Serve as the central point of coordination between Events, Marketing, and Industry teams, ensuring initiatives are consistent, aligned with club objectives, and fulfill industry obligations.
+- Monitor campaign performance and track key metrics such as reach, engagement, conversions, and audience growth using analytics tools (Google Analytics, Meta Business Suite, etc.) to ensure marketing is accurate and effective.
+- Prepare monthly marketing and engagement reports for the Executive Team, highlighting areas for improvement and alignment with club values.
+- Serve as the main point of contact for other clubs, facilitating partnerships, joint events, and collaborative projects that provide meaningful experiences that align with the clubs aims and objectives.
+- Advise the team on strategies to improve audience engagement, community interaction, partnership opportunities, and alignment of events and campaigns with club values and member expectations.
