@@ -17,12 +17,13 @@ The official constitution of QUT AMS, outlining our structure, rules, and govern
 ### 11. [Executive Meetings](#executive-meetings)
 ### 12. [General Meetings](#general-meetings)
 ### 13. [Annual General Meetings](#annual-general-meetings)
-### 14. [Termination of Club Membership](#termination-of-club-membership)
-### 15. [Termination of Executive Member](#termination-of-executive-member)
-### 16. [Disaffiliation](#disaffiliation)
-### 17. [Interpretation of the Constitution](#interpretation-of-the-constitution)
-### 18. [Alteration of the Constitution](#alteration-of-the-constitution)
-### 19. [Enactment](#enactment)
+### 14. [Term of Office](#term-of-office)
+### 15. [Termination of Club Membership](#termination-of-club-membership)
+### 16. [Termination of Executive Member](#termination-of-executive-member)
+### 17. [Disaffiliation](#disaffiliation)
+### 18. [Interpretation of the Constitution](#interpretation-of-the-constitution)
+### 19. [Alteration of the Constitution](#alteration-of-the-constitution)
+### 20. [Enactment](#enactment)
 
 ---
 
