@@ -241,8 +241,6 @@ Responsibilities:
 -  Facilitate events where required
 -  Delegating areas of responsibilities of events to Events Officers.
 -  Collaborate with the Marketing and Projects teams in planning events.
--  Liaise with external organisations for collaboration events.
-
 
 ## Activities Facilitator
 > [!NOTE]
