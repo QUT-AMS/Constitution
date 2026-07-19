@@ -38,10 +38,10 @@ _Leads technical initiatives and hands-on projects to help members build skills 
 - **Projects Director**: Requires previous AIML Executive experience 1yr, Technical Experience Required, 3-5 hours weekly
 - **Projects Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
-### 📱 Marketing Team
+### 📱 Growth Team
 _Promotes the club through social media, design, and communications to engage current and future members._
-- **Marketing Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
-- **Marketing Officer**: Experience not required, 2-4 hours weekly
+- **Growth Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
+- **Growth Officer**: Experience not required, 2-4 hours weekly
 
 ### 🎉 Education Team
 _Designs and delivers learning experiences to help members grow their AIML skills._
@@ -150,35 +150,35 @@ Responsibilities:
 
 -----
 
-# Marketing Team
-Promotes the club through social media, design, and communications to engage current and future members.
+# Growth Team
+Builds and strengthens the AIML community through social media, design, and communications that engage current and future members.
 
-## Marketing Director
+## Growth Director
 > [!NOTE]
 > Requires previous AIML Executive experience 1yr, 3-5 hours weekly
 
-The Marketing Director oversees the AIML brand and marketing strategy, directing the team to produce consistent, engaging content across all platforms and initiatives.
+The Growth Director oversees the AIML brand and leads the club's community growth strategy, directing the team to build genuine connection and engagement with members across all platforms and initiatives.
 
 Responsibilities:
 - Develop and maintain the AIML brand identity, ensuring consistency across all visual content, communications, and platforms.
-- Create and maintain a Marketing Plan that coordinates promotional efforts across the club's events and initiatives throughout the year.
-- Oversee the production of visual and video content, ensuring all output meets the club's brand standards and engages the target audience.
-- Manage the club's social media presence at a strategic level, guiding tone, scheduling, and platform priorities.
-- Review and approve content produced by Marketing Officers before publication to maintain quality and brand alignment.
+- Create and maintain a Growth Plan that focuses on expanding and engaging the club's community across events and initiatives throughout the year.
+- Manage the club's social media presence at a strategic level, guiding tone, scheduling, and platform priorities to foster community engagement.
+- Review and approve content produced by Growth Officers before publication, ensuring quality, brand alignment, and consistent direction across the team.
+- Track community growth and engagement trends, using those insights to guide the Growth Officers and shape future outreach efforts.
 
 
-## Marketing Officer
+## Growth Officer
 > [!NOTE]
 > Experience not required, 2-4 hours weekly
 
-The Marketing Officer supports the club's online presence by creating engaging social media content, short-form videos, and visual assets to grow and connect with the AIML community.
+The Growth Officer supports the club's online presence by creating eye catching graphics, event visuals, and short form videos like Instagram Reels, while also engaging with the community through comments and messages to help AIML grow and stay connected.
 
 Responsibilities:
-- Produces static visual materials including graphics, posters, banners, and event promotional designs.
-- Creates short-form video content (e.g. Instagram Reels) to boost club engagement and reach.
-- Engages with followers, responds to messages and comments, and moderates online discussions.
-- Handle event photo and video coverage including filming, editing, an d producing content
-- Assist in any other areas where required by Marketing Director.
+- Design eye catching graphics, posters, and event visuals that turn heads
+- Film and edit short form videos like Instagram Reels that stop the scroll, including collab content with other clubs
+- Record snippets of project nights and show up to events, turning the energy into fun, meme worthy content that people want to share
+- Grow and nurture our online community by jumping into comments, replying to messages, and keeping discussions alive
+- Pull apart the data behind posts, spot the trends, and use those findings to drive smarter content decisions
 
 
 
@@ -230,7 +230,7 @@ Responsibilities:
 - Maintain strong relationships with sponsors and ensure delivery of partnership expectations.
 - Identify and secure high-value guest speakers, panelists, and mentors for events.
 - Oversee outreach to companies, professionals, and organisations to build long-term relationships.
-- Lead the club's LinkedIn presence, setting content direction and working with Marketing on execution.
+- Lead the club's LinkedIn presence, setting content direction and working with Growth Team on execution.
 
 ## Insustry Officer
 > [!NOTE]
