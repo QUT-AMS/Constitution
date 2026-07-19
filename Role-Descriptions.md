@@ -66,7 +66,7 @@ Manages the club’s internal operations, governance, finances, and compliance w
 > [!NOTE]
 > Requires previous AIML Executive experience 1yr, 5-8 hours per week, in-person event attendance required
 
-The President is the club’s main ambassador and is responsible for chairing club meetings. At events, the President is the one to mingle with club members, and not be carried away with managing the day-to-day operations of the club.
+The President leads the club's overall direction and serves as its main ambassador, guiding the Executive Team while representing AIML to the university and beyond.
 
 Responsibilities:
 - Define the club's goals and priorities to ensure all activities align with its mission and values.
