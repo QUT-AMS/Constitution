@@ -1,8 +1,8 @@
-# Expectations of QUT AIML Executives
+# Expectations of AIML Executives
 
-All QUT AIML Executives are expected to:
+All AIML Executives are expected to:
 
-- Regularly attend QUT AIML events and Executive Team meetings  
+- Regularly attend AIML events and Executive Team meetings  
 - Take initiative and proactive ownership for their area of the club  
 - Act in a professional and ethical manner, and positively represent the club  
 - Commit to the expected weekly time commitment for their specified role  
