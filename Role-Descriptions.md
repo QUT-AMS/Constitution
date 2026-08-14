@@ -28,15 +28,15 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Requires previous AIML (Admin or Director) Executive experience 1yr, 10-12 hours weekly
-- **Vice President**: Requires previous AIML (Admin or Director) Executive experience 1yr, 6-8 hours weekly
-- **Secretary**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
-- **Treasurer**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
+- **President**: Requires previous AIML Executive experience 1yr, 10-12 hours weekly
+- **Vice President**: Requires previous AIML Executive experience 1yr, 6-8 hours weekly
+- **Secretary**: Requires previous Club Executive experience 1 semester, 3-6 hours weekly
+- **Treasurer**: Requires previous Club Experience 1 semester, 3-6 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
 - **Projects Director**: Requires previous AIML Executive experience 1yr, Technical Experience Required, 4-6 hours weekly
-- **Projects Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
+- **Projects Officer**: Technical Experience recommended, 2-4 hours weekly
 
 ### 📱 Growth Team
 _Promotes the club through social media, design, and communications to engage current and future members._
@@ -46,7 +46,7 @@ _Promotes the club through social media, design, and communications to engage cu
 ### 🎉 Education Team
 _Designs and delivers learning experiences to help members grow their AIML skills._
 - **Education Director**: Requires previous AIML Executive experience 1yr, 4-6 hours weekly
-- **Education Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
+- **Education Officer**: Technical Experience recommended, 2-4 hours weekly
 
 ### 👥 Industry Team
 _Connects the club with industry professionals, companies, and organisations to create meaningful opportunities for members._
@@ -78,7 +78,7 @@ Responsibilities:
 
 ## Vice President
 > [!NOTE]
-> Requires previous AIML Executive (Admin or Director level) experience, 6-8 hours per week, in-person event attendance required
+> Requires previous AIML Executive experience 1yr, 6-8 hours per week, in-person event attendance required
 
 The Vice-President is the understudy to the President and will fill in for the President if the President is away. The Vice-President is also the strategic planning director and works closely with the President to ensure club operations are in line with our objectives.
 
@@ -91,7 +91,7 @@ Responsibilities:
 
 ## Secretary
 > [!NOTE]
-> Recommended previous AIML experience, 2-4 hours per week
+> Recommended previous club experience 1 semester, 2-4 hours per week
 
 The Secretary is the backbone of the club, playing a critical administrative role that ensures smooth operation and keeps everything organised. Managing meetings and club correspondence.
 
@@ -105,7 +105,7 @@ Responsibilities:
 
 ## Treasurer
 > [!NOTE]
-> Recommended previous AIML experience, 2-4 hours per week
+> Recommended previous club experience 1 semester, 3-6 hours per week
 
 The Treasurer oversees the finances of the club. This includes income from funding, sponsors, and events; and club expenditures.
 
@@ -137,7 +137,7 @@ Responsibilities:
   
 ## Projects Officer
 > [!NOTE]
-> Technical expertise required or proven interest in AI & ML, 2-4 hours per week, in-person event attendance expected
+> Technical expertise recommended, 2-4 hours per week, in-person event attendance expected
 
 The Projects Officer will support the Projects Director in the development of club projects and in the delivery of project nights. They will bring their own unique technical expertise and experience to support members to build their projects.
 
@@ -155,7 +155,7 @@ Builds and strengthens the AIML community through social media, design, and comm
 
 ## Growth Director
 > [!NOTE]
-> Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+> Experience recommended, 4-6 hours weekly
 
 The Growth Director oversees the AIML brand and leads the club's community growth strategy, directing the team to build genuine connection and engagement with members across all platforms and initiatives.
 
@@ -189,7 +189,7 @@ Plans and delivers educational workshops, tutorials, and learning sessions to he
 
 ## Education Director
 > [!NOTE]
-> Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+> Technical experience or proven interest in AI/ML required, 4-6 hours weekly
 
 The Education Director sets the vision and direction for the club's learning initiatives, ensuring educational content is relevant, accessible, and aligned with member needs.
 
@@ -202,7 +202,7 @@ Responsibilities:
 
 ## Education Officer
 > [!NOTE]
-> Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
+> Technical expertise recommended, 2-4 hours per week
 
 The Education Officer assists in developing and delivering learning experiences, creating structured materials, and supporting members in building their AIML knowledge and skills.
 
@@ -221,7 +221,7 @@ Connects the club with industry professionals, companies, and organisations to c
 
 ## Industry Director
 > [!NOTE]
-> Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+> Experience recommended, 4-6 hours weekly
 
 The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
