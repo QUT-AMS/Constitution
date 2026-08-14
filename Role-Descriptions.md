@@ -31,7 +31,7 @@ _Manages the club’s internal operations, governance, finances, and compliance 
 - **President**: Requires previous AIML Executive experience 1yr, 10-12 hours weekly
 - **Vice President**: Requires previous AIML Executive experience 1yr, 6-8 hours weekly
 - **Secretary**: Requires previous Club Executive experience 1 semester, 3-6 hours weekly
-- **Treasurer**: Requires previous Club Experience 1 semester, 3-6 hours weekly
+- **Treasurer**: Requires previous Club Executive Experience 1 semester, 3-6 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
