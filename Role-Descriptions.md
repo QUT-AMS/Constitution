@@ -55,7 +55,7 @@ _Connects the club with industry professionals, companies, and organisations to 
 
 ### 🏛️ Independent
 _Provides experienced guidance and oversight to support the Executive Team._
-- **Chief Returning Officer**: Requires previous AIML Admin Team experience 1yr, 1-2 hours weekly, one semester term
+- **Chief Returning Officer**: Requires previous AIML Admin Team experience 1yr, 1-2 hours weekly
 
 -----
 
@@ -252,9 +252,9 @@ Responsibilities:
 ## Chief Returning Officer
 
 >[!NOTE]
-> Requires previous AIML Admin Team experience, 1-2 hours weekly, one semester term
+> Requires previous AIML Admin Team experience, 1-2 hours weekly
 
-The Chief Returning Officer is an experienced former high ranking executive who provides independent guidance and mentorship to support the current Executive Team in leading the club effectively for one semester.
+The Chief Returning Officer is an experienced former high ranking executive who provides independent guidance and mentorship to support the current Executive Team in leading the club effectively.
 
 Responsibilities:
 - Provide guidance and mentorship to newly elected executives, particularly within the Admin Team and Director roles.
