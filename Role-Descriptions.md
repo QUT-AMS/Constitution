@@ -28,29 +28,29 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Requires previous AIML Executive experience 1yr, 10-12 hours weekly
-- **Vice President**: Requires previous AIML Executive experience 1yr, 6-8 hours weekly
-- **Secretary**: Requires previous Club Executive experience 1 semester, 3-6 hours weekly
-- **Treasurer**: Requires previous Club Executive Experience 1 semester, 3-6 hours weekly
+- **President**: Requires previous AIML Executive experience 1yr, 8-10 hours weekly
+- **Vice President**: Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+- **Secretary**: Requires previous Club Executive experience 1 semester, 2-4 hours weekly
+- **Treasurer**: Requires previous Club Executive Experience 1 semester, 2-4 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
-- **Projects Director**: Requires previous AIML Executive experience 1yr, Technical Experience Required, 4-6 hours weekly
+- **Projects Director**: Technical Experience Required, 4-6 hours weekly
 - **Projects Officer**: Technical Experience recommended, 2-4 hours weekly
 
 ### 📱 Growth Team
 _Promotes the club through social media, design, and communications to engage current and future members._
-- **Growth Director**: Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+- **Growth Director**: Experience recommended, 4-6 hours weekly
 - **Growth Officer**: Experience not required, 2-4 hours weekly
 
 ### 🎉 Education Team
 _Designs and delivers learning experiences to help members grow their AIML skills._
-- **Education Director**: Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+- **Education Director**: Technical Experience required , 4-6 hours weekly
 - **Education Officer**: Technical Experience recommended, 2-4 hours weekly
 
 ### 👥 Industry Team
 _Connects the club with industry professionals, companies, and organisations to create meaningful opportunities for members._
-- **Industry Director**: Requires previous AIML Executive experience 1yr, 4-6 hours weekly
+- **Industry Director**: Experience recommended, 4-6 hours weekly
 - **Industry Officer**: Experience not required, 2-4 hours weekly
 
 ### 🏛️ Independent
