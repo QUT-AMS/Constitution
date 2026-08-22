@@ -231,7 +231,7 @@ Responsibilities:
 ## Chief Returning Officer
 
 >[!NOTE]
-> Requires previous AIML Admin Team experience, 1-2 hours weekly
+> Requires previous AIML Admin/Director Level experience, 1-2 hours weekly
 
 The Chief Returning Officer is an experienced former high ranking executive who provides independent guidance and mentorship to support the current Executive Team in leading the club effectively.
 
